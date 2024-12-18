@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: docker-nodejs-demo
-        image: 01bit/docker-nodejs-demo:1.0.1
+        image: 01bit/docker-nodejs-demo:1.0.0
         ports:
         - name: nodejs-port
           containerPort: 3000
